@@ -1,0 +1,20 @@
+01  INTRODUCTIOPN                    -> ----
+02  DRAITENBERG                      -> DONE (1/4/6)
+03  MODEL & CONTROL                  -> 4 & 5
+    pose epresentations + solutions
+    Wheels-calibration
+    wheel-encoders-tutorial
+    odometry + solutions
+                                                        pid-control + solutions
+                                                        pid-control-exercise
+04  VISION                            -> 3 & 5
+    pinhole-camera
+    hommographies
+    	                                                  camera-calibration
+    image-filtering
+    	                                                  visual-servoing
+05  OBJECT DETECTION                  -> TODO
+06  LOCCALIZATION                     -> TODO
+07  PLANNING I                        -> TODO
+08  PLANNING II                       -> ----
+09  REINFORCEMENT                     -> ----
